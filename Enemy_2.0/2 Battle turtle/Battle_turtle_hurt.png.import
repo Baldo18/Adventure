@@ -14,13 +14,13 @@ dest_files=[ "res://.import/Battle_turtle_hurt.png-f2dacaa3f9c26fe9b2a969a062ca7
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
